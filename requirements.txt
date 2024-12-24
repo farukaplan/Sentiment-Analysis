@@ -1,0 +1,14 @@
+pandas
+os
+autocorrect
+contractions
+unicodedata
+re
+tensorflow 
+sklearn
+nltk 
+matplotlib
+numpy
+requests
+zipfile
+nltk
