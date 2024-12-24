@@ -12,6 +12,7 @@ This repository contains an implementation of a sentiment analysis model using b
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
+- [Video](#video)
 
 ## Overview
 
@@ -85,3 +86,6 @@ Contributions to enhance the project are welcome. To contribute:
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request.
+
+## Video
+If you prefer to watch video to understand the code, you can visit following YouTube video: https://youtu.be/o95-X_zDRkU
